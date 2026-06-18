@@ -1,5 +1,7 @@
 # runtime-checks
 
-testing runtime behavior  
+testing
+runtime 
+behavior  
 
 repeated execution checks  
